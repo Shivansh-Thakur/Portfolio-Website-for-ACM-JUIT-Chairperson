@@ -1793,3 +1793,6 @@ p.form-message.success, p.form-message.error {
 #pricing{
 	background:#FFFFD8;
 }
+@media (min-width: 992px){
+.col-lg-6{float:left;}
+}
